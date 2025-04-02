@@ -11,7 +11,8 @@ Ce dépôt contient plusieurs implémentations et démonstrations d'algorithmes 
 - 🔑 **HMAC** : Génération et vérification de codes d'authentification de messages  
 - 🔒 **AES** : Chiffrement symétrique avec AES (Advanced Encryption Standard)  
 - 🔐 **RSA** : Chiffrement et signature avec RSA  
-- ✍️ **ECDSA** : Signature et vérification avec ECDSA (Elliptic Curve Digital Signature Algorithm)  
+- ✍️ **ECDSA** : Signature et vérification avec ECDSA (Elliptic Curve Digital Signature Algorithm)
+- D'autres projets vont être ajouté dans les semaines à venir...
 
 ## 🛠️ Prérequis  
 - Python 3.x
